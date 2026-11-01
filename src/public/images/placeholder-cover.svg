@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="900" viewBox="0 0 600 900" role="img">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6d28d9"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="900" fill="url(#bg)"/>
+  <circle cx="591" cy="182" r="120" fill="none" stroke="#ffffff" stroke-opacity="0.14" stroke-width="2"/>
+  <circle cx="532" cy="39" r="108" fill="none" stroke="#ffffff" stroke-opacity="0.14" stroke-width="3"/>
+  <circle cx="326" cy="564" r="79" fill="none" stroke="#ffffff" stroke-opacity="0.14" stroke-width="5"/>
+  <circle cx="271" cy="731" r="111" fill="none" stroke="#ffffff" stroke-opacity="0.14" stroke-width="4"/>
+  <circle cx="401" cy="250" r="27" fill="#ede9fe" opacity="0.18"/>
+  <circle cx="377" cy="252" r="58" fill="#ede9fe" opacity="0.18"/>
+  <circle cx="178" cy="525" r="56" fill="#ede9fe" opacity="0.18"/>
+  <line x1="107" y1="355" x2="186" y2="276" stroke="#ffffff" stroke-opacity="0.12" stroke-width="2"/>
+  <line x1="27" y1="25" x2="135" y2="-83" stroke="#ffffff" stroke-opacity="0.12" stroke-width="2"/>
+  <line x1="155" y1="383" x2="239" y2="299" stroke="#ffffff" stroke-opacity="0.12" stroke-width="2"/>
+  <line x1="441" y1="308" x2="510" y2="239" stroke="#ffffff" stroke-opacity="0.12" stroke-width="2"/>
+  <line x1="421" y1="91" x2="479" y2="33" stroke="#ffffff" stroke-opacity="0.12" stroke-width="2"/>
+  <line x1="10" y1="380" x2="47" y2="343" stroke="#ffffff" stroke-opacity="0.12" stroke-width="2"/>
+  <rect x="0" y="0" width="600" height="900" fill="none"/>
+  <line x1="230" y1="300" x2="370" y2="300" stroke="#ede9fe" stroke-width="3" opacity="0.9"/>
+  <text x="300" y="404" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="bold" fill="#ffffff">Коллекция</text>
+<text x="300" y="456" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="bold" fill="#ffffff">цитат</text>
+  <text x="300" y="820" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="28" fill="#ffffff" opacity="0.92">Alice</text>
+  <rect x="16" y="16" width="568" height="868" fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="2" rx="10"/>
+</svg>
